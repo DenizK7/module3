@@ -19,3 +19,9 @@ margin-left: 10%;
 margin-bottom: 5%;
 position: relative;
 }
+    
+p {
+    font-style: italic;
+    font-size: 1.5em;
+}
+    
