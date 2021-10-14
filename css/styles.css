@@ -1,0 +1,21 @@
+#navbar{
+  background-color: black;
+}
+span{
+  color: white;
+}
+#black{
+  color: black;
+}
+#box{
+  box-sizing: border-box;
+  background-color: gray;
+border: 1px solid black;
+padding: 0;
+
+width: 80%;
+margin-right: 10%;
+margin-left: 10%;
+margin-bottom: 5%;
+position: relative;
+}
